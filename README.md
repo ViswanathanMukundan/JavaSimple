@@ -1,2 +1,2 @@
 # JavaSimple
-Test code.
+Test code for Jenkins.
